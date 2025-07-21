@@ -2,7 +2,6 @@
 
 Este projeto faz parte da **formação Node.js** da [Digital Innovation One (DIO)](https://www.dio.me/) e tem como objetivo a **geração de QR Codes e senhas seguras** utilizando Node.js e conceitos modernos de arquitetura de software.
 
----
 
 ## 📁 Estrutura do Projeto
 
@@ -28,23 +27,17 @@ Este projeto faz parte da **formação Node.js** da [Digital Innovation One (DIO
     │ └── handle.js
 
 
----
-
 ## 🚀 Funcionalidades
 
 - ✅ Geração de QR Codes a partir de texto/URLs
 - ✅ Geração de senhas fortes e personalizadas
 - ✅ Estrutura modular seguindo boas práticas
 
----
-
 ## 🔧 Tecnologias Utilizadas
 
 - [Node.js](https://nodejs.org/)
 - [Prompt](https://www.npmjs.com/package/prompt)
 - [QRCode](https://www.npmjs.com/package/qrcode)
-
----
 
 ## ▶️ Como Executar
 
