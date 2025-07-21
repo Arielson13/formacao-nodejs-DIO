@@ -1,5 +1,5 @@
 import chalk from "chalk";
-import handle from "./andle.js";
+import handle from "./handle.js";
 
 async function createPassword(){
     console.log(chalk.green("password"));
